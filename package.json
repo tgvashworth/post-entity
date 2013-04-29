@@ -1,0 +1,23 @@
+{
+  "name": "post-entity",
+  "version": "0.0.1",
+  "description": "Extract entities and text from a post (tweet, status etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": "",
+  "keywords": [
+    "text",
+    "parse",
+    "process",
+    "crosspost",
+    "entity",
+    "nlp"
+  ],
+  "author": "Tom Ashworth <tom@phuu.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "~0.4.2"
+  }
+}
