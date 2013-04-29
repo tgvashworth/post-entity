@@ -1,5 +1,7 @@
 # post-entity
 
+[![build status](https://secure.travis-ci.org/phuu/post-entity.png)](http://travis-ci.org/phuu/post-entity)
+
 Extract entities and process a post (tweet, status etc) into text and entity blocks.
 
 ## Usage

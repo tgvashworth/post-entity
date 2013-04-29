@@ -6,7 +6,7 @@
   "scripts": {
     "test": "tap ./test"
   },
-  "repository": "",
+  "repository": "git://github.com/phuu/post-entity.git",
   "keywords": [
     "text",
     "parse",
